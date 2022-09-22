@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotacaoMoeda.Servico", "CotacaoMoeda.Servico\CotacaoMoeda.Servico.csproj", "{A45D3CE5-78E9-49F0-BE2B-D8D9976FC74F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotacaoMoeda.API", "CotacaoMoeda.API\CotacaoMoeda.API.csproj", "{91BE2788-7B4C-4F43-9104-B5005127926A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotacaoMoeda.Infra", "CotacaoMoeda.Infra\CotacaoMoeda.Infra.csproj", "{79BF9C1F-DF10-41FE-ACB4-EF7E06F89BA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotacaoMoeda.Negocio", "CotacaoMoeda.Negocio\CotacaoMoeda.Negocio.csproj", "{846194EE-E5B7-41E6-833F-FDC2F40D0936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotacaoMoeda.Modelo", "CotacaoMoeda.Modelo\CotacaoMoeda.Modelo.csproj", "{4FDC022A-CAE4-4A09-85C5-991EA7D162A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A45D3CE5-78E9-49F0-BE2B-D8D9976FC74F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45D3CE5-78E9-49F0-BE2B-D8D9976FC74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45D3CE5-78E9-49F0-BE2B-D8D9976FC74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45D3CE5-78E9-49F0-BE2B-D8D9976FC74F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BE2788-7B4C-4F43-9104-B5005127926A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BE2788-7B4C-4F43-9104-B5005127926A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BE2788-7B4C-4F43-9104-B5005127926A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BE2788-7B4C-4F43-9104-B5005127926A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79BF9C1F-DF10-41FE-ACB4-EF7E06F89BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BF9C1F-DF10-41FE-ACB4-EF7E06F89BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BF9C1F-DF10-41FE-ACB4-EF7E06F89BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BF9C1F-DF10-41FE-ACB4-EF7E06F89BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846194EE-E5B7-41E6-833F-FDC2F40D0936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846194EE-E5B7-41E6-833F-FDC2F40D0936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846194EE-E5B7-41E6-833F-FDC2F40D0936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846194EE-E5B7-41E6-833F-FDC2F40D0936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FDC022A-CAE4-4A09-85C5-991EA7D162A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDC022A-CAE4-4A09-85C5-991EA7D162A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDC022A-CAE4-4A09-85C5-991EA7D162A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDC022A-CAE4-4A09-85C5-991EA7D162A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EBF0DE0-1D55-46E8-A9E6-13F6345EDEF8}
+	EndGlobalSection
+EndGlobal
